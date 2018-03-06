@@ -1,2 +1,3 @@
 # hello-world
-natal place
+
+This is a parking place of time traveler from USSR.
